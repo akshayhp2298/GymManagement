@@ -1,0 +1,6 @@
+.vs
+packages
+GymManagement/bin/
+GymManagement/obj/
+GymManagement/Properties/
+GymManagementSetup
